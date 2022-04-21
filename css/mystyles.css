@@ -1,0 +1,17 @@
+/*last edited on April 20th, Christian Cooper*/
+
+.centerit{text-align: center;}
+
+.background{background-color: rgb(31, 31, 31);}
+.background1{background-color: rgb(238, 238, 218);}
+
+.textcolor{color: rgb(229, 226, 226);}
+
+.resumelistheading 
+    {font-weight: normal;
+    font-style: normal;}
+
+.italicize{text-decoration: italic;}
+
+.linkscolor{text-decoration: underline; 
+        color: blue;}
